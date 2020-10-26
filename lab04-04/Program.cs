@@ -16,10 +16,7 @@ namespace lab04_04
             {
                 ok = true;
             }
-            else
-            {
-                Console.WriteLine("Это не треугольник.");
-            }
+            
             return ok;
         }
         public static double Area(int a, int b, int c)
@@ -70,6 +67,10 @@ namespace lab04_04
             if (area != -1)
             {
                 Console.WriteLine("Площадь треугольника равна {0:F2}", area);
+            }
+            else
+            {
+                Console.WriteLine("Это не треугольник.");
             }
         }
     }

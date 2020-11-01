@@ -8,25 +8,25 @@ namespace lab06_04
 {
     class Triangle
     {
-        private int sideA;
-        private int sideB;
-        private int sideC;
+        private double sideA;
+        private double sideB;
+        private double sideC;
 
-        public Triangle (int a, int b, int c)
+        public Triangle (double a, double b, double c)
         {
             sideA = a;
             sideB = b;
             sideC = c;
         }
 
-        public int Perimeter()
+        public double Perimeter()
         {
             return sideA + sideB + sideC;
         }
 
         public double Area()
         {
-            double semiper = (double)Perimeter()/ 2;
+            double semiper = Perimeter()/ 2;
             double area = -1;
             if (IsTriangle())
             {

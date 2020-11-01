@@ -8,9 +8,9 @@ namespace lab09_05
 {
     class Circle : Shape
     {
-        int radius;
+        double radius;
 
-        public Circle(int x)
+        public Circle(double x)
         {
             radius = x;
         }

@@ -8,9 +8,9 @@ namespace lab09_05
 {
     class Sqare : Shape, IRotatable
     {
-        int side;
+        double side;
 
-        public Sqare(int x)
+        public Sqare(double x)
         {
             side = x;
         }

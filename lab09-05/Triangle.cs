@@ -8,18 +8,18 @@ namespace lab09_05
 {
     class Triangle : Shape, IRotatable
     {
-        private int sideA;
-        private int sideB;
-        private int sideC;
+        private double sideA;
+        private double sideB;
+        private double sideC;
 
-        public Triangle(int a, int b, int c)
+        public Triangle(double a, double b, double c)
         {
             sideA = a;
             sideB = b;
             sideC = c;
         }
 
-        public Triangle(int a)
+        public Triangle(double a)
         {
             sideA = a;
             sideB = a;

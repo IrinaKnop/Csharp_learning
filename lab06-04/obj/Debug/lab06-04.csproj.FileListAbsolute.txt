@@ -1,0 +1,7 @@
+C:\Users\Андрей\Documents\Csharp_learning\lab06-04\bin\Debug\lab06-04.exe.config
+C:\Users\Андрей\Documents\Csharp_learning\lab06-04\bin\Debug\lab06-04.exe
+C:\Users\Андрей\Documents\Csharp_learning\lab06-04\bin\Debug\lab06-04.pdb
+C:\Users\Андрей\Documents\Csharp_learning\lab06-04\obj\Debug\lab06-04.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\Csharp_learning\lab06-04\obj\Debug\lab06-04.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\Csharp_learning\lab06-04\obj\Debug\lab06-04.exe
+C:\Users\Андрей\Documents\Csharp_learning\lab06-04\obj\Debug\lab06-04.pdb

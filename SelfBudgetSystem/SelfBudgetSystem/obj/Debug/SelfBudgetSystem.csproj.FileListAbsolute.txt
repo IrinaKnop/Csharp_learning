@@ -1,0 +1,7 @@
+C:\Users\Андрей\Documents\Csharp_learning\SelfBudgetSystem\SelfBudgetSystem\bin\Debug\SelfBudgetSystem.exe.config
+C:\Users\Андрей\Documents\Csharp_learning\SelfBudgetSystem\SelfBudgetSystem\bin\Debug\SelfBudgetSystem.exe
+C:\Users\Андрей\Documents\Csharp_learning\SelfBudgetSystem\SelfBudgetSystem\bin\Debug\SelfBudgetSystem.pdb
+C:\Users\Андрей\Documents\Csharp_learning\SelfBudgetSystem\SelfBudgetSystem\obj\Debug\SelfBudgetSystem.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\Csharp_learning\SelfBudgetSystem\SelfBudgetSystem\obj\Debug\SelfBudgetSystem.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\Csharp_learning\SelfBudgetSystem\SelfBudgetSystem\obj\Debug\SelfBudgetSystem.exe
+C:\Users\Андрей\Documents\Csharp_learning\SelfBudgetSystem\SelfBudgetSystem\obj\Debug\SelfBudgetSystem.pdb
